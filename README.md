@@ -1,2 +1,2 @@
-asks for input for the domain or ip address then spawns multiple threads to over load it
+asks for input for the ip address of the server and mac address then overloads it with many threads
 # for kali linux only 
